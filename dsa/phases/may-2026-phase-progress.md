@@ -19,3 +19,9 @@ This log tracks phase-level DSA repository work for selected May 2026 study and 
 - Prioritized Phase 1 problems around common interview patterns: hashing, prefix/suffix, two pointers, and sliding window.
 - Marked Contains Duplicate, Product of Array Except Self, and Trapping Rain Water as strong starter problems for the phase.
 - Noted additional high-value array targets such as Majority Element, Missing Number, Maximum Subarray, and Merge Intervals.
+
+## May 15, 2026
+
+- Standardized the problem-note format around the 16-section interview explanation structure.
+- Confirmed every problem should include intuition, brute force, better approach, optimal solution, dry run, C++ implementation, and follow-ups.
+- Added consistency expectations for edge cases, common mistakes, similar LeetCode problems, and key takeaways.
