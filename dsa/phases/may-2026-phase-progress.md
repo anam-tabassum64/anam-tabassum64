@@ -25,3 +25,9 @@ This log tracks phase-level DSA repository work for selected May 2026 study and 
 - Standardized the problem-note format around the 16-section interview explanation structure.
 - Confirmed every problem should include intuition, brute force, better approach, optimal solution, dry run, C++ implementation, and follow-ups.
 - Added consistency expectations for edge cases, common mistakes, similar LeetCode problems, and key takeaways.
+
+## May 20, 2026
+
+- Planned a Phase 1 revision page that summarizes solved problems by pattern, time complexity, and space complexity.
+- Added dry-run examples as a required support section so each problem can be practiced manually before coding.
+- Identified common mistakes to track across array problems, including wrong pointer movement, missing zero handling, and overflow risk.
