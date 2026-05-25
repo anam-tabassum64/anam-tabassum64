@@ -31,3 +31,9 @@ This log tracks phase-level DSA repository work for selected May 2026 study and 
 - Planned a Phase 1 revision page that summarizes solved problems by pattern, time complexity, and space complexity.
 - Added dry-run examples as a required support section so each problem can be practiced manually before coding.
 - Identified common mistakes to track across array problems, including wrong pointer movement, missing zero handling, and overflow risk.
+
+## May 25, 2026
+
+- Reviewed Phase 3 requirements for searching and sorting, with emphasis on binary search fundamentals.
+- Selected Binary Search, Search in Rotated Sorted Array, and Koko Eating Bananas as the initial Phase 3 problem set.
+- Noted that Phase 3 should clearly separate normal binary search, modified binary search, and binary search on answer.
