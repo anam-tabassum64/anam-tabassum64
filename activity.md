@@ -13,3 +13,4 @@ June 4, 2026 - Sketched a simple content strategy for daily GitHub profile updat
 June 5, 2026 - Added a clearer section order for introduction, focus, and recent work.
 June 6, 2026 - Tightened the wording in the profile copy to sound more professional.
 June 7, 2026 - Replaced placeholder text with more intentional activity notes.
+June 8, 2026 - Checked markdown formatting to keep the README easy to scan.
