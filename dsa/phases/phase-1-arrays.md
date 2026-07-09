@@ -87,6 +87,10 @@ For every problem, use this structure:
 - Container With Most Water - `11`
 - Merge Intervals - `56`
 
+## Structured layout
+
+- [Phase 1 folder index](phase-1/README.md)
+
 ## Notes
 
 This file is intentionally concise so each topic can later get its own dedicated page.

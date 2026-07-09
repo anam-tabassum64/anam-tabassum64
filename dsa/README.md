@@ -51,3 +51,8 @@ Use `templates/topic-template.md` for every topic/problem note so the repository
 - [Binary Search](phases/phase-3-binary-search.md)
 - [Search in Rotated Sorted Array](phases/phase-3-search-rotated-array.md)
 - [Koko Eating Bananas](phases/phase-3-koko-eating-bananas.md)
+
+## Structured phase indexes
+
+- [Phase 1 index](phases/phase-1/README.md)
+- [Phase 3 index](phases/phase-3/README.md)

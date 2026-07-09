@@ -53,3 +53,7 @@ This phase covers basic search techniques and the most common sorting algorithms
 - Find First and Last Position of Element in Sorted Array - `34`
 - Find Minimum in Rotated Sorted Array - `153`
 - Capacity to Ship Packages Within D Days - `1011`
+
+## Structured layout
+
+- [Phase 3 folder index](phase-3/README.md)
