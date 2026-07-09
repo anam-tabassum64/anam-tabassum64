@@ -42,3 +42,12 @@ The first phase starts with arrays. See:
 ## Topic template
 
 Use `templates/topic-template.md` for every topic/problem note so the repository stays consistent.
+
+## Recent additions
+
+- [Contains Duplicate](phases/phase-1-contains-duplicate.md)
+- [Product of Array Except Self](phases/phase-1-product-except-self.md)
+- [Trapping Rain Water](phases/phase-1-trapping-rain-water.md)
+- [Binary Search](phases/phase-3-binary-search.md)
+- [Search in Rotated Sorted Array](phases/phase-3-search-rotated-array.md)
+- [Koko Eating Bananas](phases/phase-3-koko-eating-bananas.md)

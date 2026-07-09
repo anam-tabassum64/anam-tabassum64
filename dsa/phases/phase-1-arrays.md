@@ -71,6 +71,22 @@ For every problem, use this structure:
 - Medium problems: sorted check, prefix sum, rotate, move zeroes
 - Hard problems: maximum subarray, trapping rain water, product except self
 
+## Progress tracker
+
+### Added notes
+
+- [Contains Duplicate](phase-1-contains-duplicate.md) - Easy - Hashing
+- [Product of Array Except Self](phase-1-product-except-self.md) - Medium - Prefix and suffix product
+- [Trapping Rain Water](phase-1-trapping-rain-water.md) - Hard - Two pointers
+
+### Next high-value additions
+
+- Majority Element - `169`
+- Missing Number - `268`
+- Maximum Subarray - `53`
+- Container With Most Water - `11`
+- Merge Intervals - `56`
+
 ## Notes
 
 This file is intentionally concise so each topic can later get its own dedicated page.

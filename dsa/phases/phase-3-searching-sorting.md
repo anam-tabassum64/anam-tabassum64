@@ -37,3 +37,19 @@ This phase covers basic search techniques and the most common sorting algorithms
 - Easy: linear search, basic sorting
 - Medium: rotated array search, lower bound, upper bound
 - Hard: binary search on answer, sorting-based optimization problems
+
+## Progress tracker
+
+### Added notes
+
+- [Binary Search](phase-3-binary-search.md) - Easy - Binary Search
+- [Search in Rotated Sorted Array](phase-3-search-rotated-array.md) - Medium - Modified Binary Search
+- [Koko Eating Bananas](phase-3-koko-eating-bananas.md) - Hard - Binary Search on Answer
+
+### Next high-value additions
+
+- Lower Bound and Upper Bound
+- Search Insert Position - `35`
+- Find First and Last Position of Element in Sorted Array - `34`
+- Find Minimum in Rotated Sorted Array - `153`
+- Capacity to Ship Packages Within D Days - `1011`
