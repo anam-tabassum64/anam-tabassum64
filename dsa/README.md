@@ -31,9 +31,14 @@ This folder contains the structured interview-prep material for the repository.
 - Write C++ code
 - Review time and space complexity
 - Note common mistakes and edge cases
+- Use the shared topic template for each problem note
 
 ## Current phase
 
 The first phase starts with arrays. See:
 
 - `phases/phase-1-arrays.md`
+
+## Topic template
+
+Use `templates/topic-template.md` for every topic/problem note so the repository stays consistent.
